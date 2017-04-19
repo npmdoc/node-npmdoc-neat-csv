@@ -1,4 +1,7 @@
-# api documentation for  [neat-csv (v2.1.0)](https://github.com/sindresorhus/neat-csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-neat-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-neat-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-neat-csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-neat-csv)
+# npmdoc-neat-csv
+
+#### api documentation for  [neat-csv (v2.1.0)](https://github.com/sindresorhus/neat-csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-neat-csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-neat-csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-neat-csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-neat-csv)
+
 #### Fast CSV parser
 
 [![NPM](https://nodei.co/npm/neat-csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/neat-csv)
